@@ -34,9 +34,9 @@ export default function App() {
         zoom: zoom
       }}
       style={{ width: "100vw", height: "100vh" }}
-      mapStyle="mapbox://styles/ejooco/cl69684g1000d14qsf62spvs0"
+      mapStyle="Mapbox Style Here"
       projection="globe"
-      mapboxAccessToken="pk.eyJ1IjoiZWpvb2NvIiwiYSI6ImNrZ2YxaHdzOTFnYTEyenF1dzVkbTY4cWYifQ.8WxLXiSvR3K42_tRQpcL4Q"
+      mapboxAccessToken="API Token Here"
     >
       <NavigationControl position="bottom-right" />
       <Source
